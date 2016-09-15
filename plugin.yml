@@ -1,0 +1,12 @@
+name: Freeze
+main: PlugFrz2/Plugmcpe
+version: 1.0.0
+api: 2.0.0
+load: POSTWORLD
+author: M7mmdgamer7
+commands:
+  freeze:
+    usage: "/freeze <add/remove>"
+permissions:
+  freeze.command:
+    default: op
